@@ -1,6 +1,4 @@
-name:Hello World
-
-onname: Hello World
+name: Hello World
 
 on:
   push:
